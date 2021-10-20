@@ -3,6 +3,8 @@ This is my personal portfolio in making. I am going include following points in 
 1. technologies i work on
 2. My past work experiences
 3. projects i have created
+   3.1 Attendace register using machine learning
+   3.2 Automated assitant for autistic people
 4. My contact details and email
 
 Site link: https://sarthakkalra.netlify.app/
